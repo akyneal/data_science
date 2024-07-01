@@ -1,0 +1,3 @@
+The purpose of this was to showcase that we cant run a linear regression model if feature variables are not independent and have relationship between each other. 
+In this case all feature variables are dependent with each other except "volume". When we only use "volumne" as a feature, our model doesnt perform well. 
+We cant explain the variance in data by just looking at volume.
